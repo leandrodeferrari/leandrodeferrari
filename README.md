@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hola a todos 👋
 
-<!--
-**leandrodeferrari/leandrodeferrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------
 
-Here are some ideas to get you started:
+Mi nombre es **Leandro Deferrari Arevalo** y soy de La Matanza, Buenos Aires, **Argentina** . Actualmente, en búsqueda de mi primer empleo en IT. Apunto mi perfil a **Desarrollador Java**, pero no me cierro a otros horizontes. Estudiante en el IFTS N°11 de la **Tecnicatura en Desarrollo de Software**, cursando el primer cuatrimestre del segundo año.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------
+
+### Contacto:
+
+:fa-envelope-o: deferrari.leandro@gmail.com
+:fa-linkedin-square: https://www.linkedin.com/in/leandrodeferrari/
+
+### CV:
+
+:fa-user: https://drive.google.com/file/d/1TxoFYbovlJkzxVccRgs7P_MFINqTLZDe/view?usp=sharing
