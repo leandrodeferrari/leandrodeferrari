@@ -8,9 +8,10 @@ Mi nombre es **Leandro Deferrari Arevalo** y soy de La Matanza, Buenos Aires, **
 
 ### Contacto:
 
-:fa-envelope-o: deferrari.leandro@gmail.com
-:fa-linkedin-square: https://www.linkedin.com/in/leandrodeferrari/
+**Gmail:** deferrari.leandro@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/leandrodeferrari/
 
 ### CV:
 
-:fa-user: https://drive.google.com/file/d/1TxoFYbovlJkzxVccRgs7P_MFINqTLZDe/view?usp=sharing
+https://drive.google.com/file/d/1TxoFYbovlJkzxVccRgs7P_MFINqTLZDe/view?usp=sharing
