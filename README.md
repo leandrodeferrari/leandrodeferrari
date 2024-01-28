@@ -1,17 +1,15 @@
-# Hola a todos 👋
+## Hola a todos 👋
 
 ------------
 
-Mi nombre es **Leandro Deferrari Arevalo** y soy de La Matanza, Buenos Aires, **Argentina** . Actualmente, en búsqueda de mi primer empleo en IT. Apunto mi perfil a **Desarrollador Java**, pero no me cierro a otros horizontes. Estudiante en el IFTS N°11 de la **Tecnicatura en Desarrollo de Software**, cursando el primer cuatrimestre del segundo año.
+Mi nombre es **Leandro Deferrari Arevalo** y soy de AMBA, Buenos Aires, **Argentina** . Actualmente, he terminado una **pasantía** como Desarrollador Java y me encuentro en búsqueda laboral. Apunto mi perfil principalmente a **Java**, pero no me cierro a otros horizontes. Estudiante de segundo año en el Instituto IFTS N°11 de la **Tecnicatura en Desarrollo de Software**, cursando el segundo cuatrimestre.
 
 ------------
 
 ### Contacto:
 
-**Gmail:** deferrari.leandro@gmail.com
+##### `LinkedIn` : <https://linkedin.com/in/leandrodeferrari>
 
-**LinkedIn:** https://www.linkedin.com/in/leandrodeferrari/
+##### `Portfolio` : <https://leandro-deferrari-arevalo.web.app>
 
-### CV:
-
-https://drive.google.com/file/d/1TxoFYbovlJkzxVccRgs7P_MFINqTLZDe/view?usp=sharing
+------------
